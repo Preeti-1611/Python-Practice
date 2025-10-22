@@ -7,8 +7,8 @@
     <list default="true" id="aef42202-3c28-4c09-9c18-2fdae3147bdf" name="Changes" comment="Initial commit: added practice files">
       <change afterPath="$PROJECT_DIR$/../Python-Practice/find_vowel.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Python-Practice/patterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python-Practice/sum_of_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python-Practice/tables.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python-Practice/tables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +79,7 @@
     "Python.selectionsort.executor": "Run",
     "Python.set_dect.executor": "Run",
     "Python.smaple_chatbot.executor": "Run",
+    "Python.sum_of_number.executor": "Run",
     "Python.tables.executor": "Run",
     "Python.try1.executor": "Run",
     "Python.tuple.executor": "Run",
@@ -303,7 +304,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../Python-Practice/find_vowel.py</url>
-          <line>4</line>
+          <line>5</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
