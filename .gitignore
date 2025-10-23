@@ -1,7 +1,0 @@
-# PyCharm files
-.idea/
-*.iml
-
-# Python cache files
-__pycache__/
-*.pyc
