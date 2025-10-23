@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aef42202-3c28-4c09-9c18-2fdae3147bdf" name="Changes" comment="Initial commit: added practice files">
-      <change afterPath="$PROJECT_DIR$/../Python-Practice/find_vowel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python-Practice/patterns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python-Practice/sum_of_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python-Practice/tables.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python-Practice/tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python-Practice/even_or_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python-Practice/largest_of_three.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python-Practice/reverse_of _str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python-Practice/sum_first_n_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,12 +61,14 @@
     "Python.bubblesort.executor": "Run",
     "Python.datatype.executor": "Run",
     "Python.demo1.executor": "Run",
+    "Python.even_or_odd.executor": "Run",
     "Python.find_vowel.executor": "Run",
     "Python.fun.executor": "Run",
     "Python.fun_01.executor": "Run",
     "Python.ifelse.executor": "Run",
     "Python.ip.executor": "Run",
     "Python.lambdafun.executor": "Run",
+    "Python.largest_of_three.executor": "Run",
     "Python.list.executor": "Run",
     "Python.mergesort.executor": "Debug",
     "Python.numberconversion.executor": "Run",
@@ -76,9 +79,11 @@
     "Python.py_01.executor": "Run",
     "Python.py_02.executor": "Run",
     "Python.py_03.executor": "Run",
+    "Python.reverse_of _str.executor": "Run",
     "Python.selectionsort.executor": "Run",
     "Python.set_dect.executor": "Run",
     "Python.smaple_chatbot.executor": "Run",
+    "Python.sum_first_n_numbers.executor": "Run",
     "Python.sum_of_number.executor": "Run",
     "Python.tables.executor": "Run",
     "Python.try1.executor": "Run",
@@ -253,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760714358941</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit: added practice files">
+      <option name="closed" value="true" />
+      <created>1761127627288</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761127627290</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
